@@ -20,6 +20,7 @@ pages; you need to edit the "matches" in the manifest.json.
 (3): Toggle "Developer Mode" on, it's next to the search extensions bar.
 (4): Load unpacked.
 (5): Select the folder "unpkd_DevColors".
+(6): Set "Allow access to search page results" to true.
 
 (Test:) 
 
