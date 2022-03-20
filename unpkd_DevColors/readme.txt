@@ -10,8 +10,7 @@ You must supply a "width:" for the "-webkit-scrollbar" or the color
 changes won't work.
 
 The "matches" within the manifest.json defines where you want to 
-display these changes. If you want to change the style for different
-pages; you need to edit the "matches" in the manifest.json.
+display these changes, or don't want to display them.
 
 (Install:)
 
