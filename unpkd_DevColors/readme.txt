@@ -4,7 +4,7 @@ Hello, All.
 way of changing the scrollbar's color in the Opera Browser.
 
 Both the content.js file & the styles.css file apply its own scrollbar.
-So there's two scrollbars on the screen, one injected, and one stylesheet.
+So there's two scrollbars on the screen, one injected - red, and one stylesheet -blue.
 
 You must supply a "width:" for the "-webkit-scrollbar" or the color 
 changes won't work.
