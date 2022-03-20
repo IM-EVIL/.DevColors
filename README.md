@@ -1,6 +1,6 @@
  
  
-# .DevColors for the Opera Web Browser
+# .DevColors for the Opera Web Browser - Edit the Scrollbar's Color
  
 An example of how to change the Opera Browser's scrollbar color.
  
