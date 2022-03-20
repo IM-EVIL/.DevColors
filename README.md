@@ -24,7 +24,7 @@ An example of how to change the Opera Browser's scrollbar color.
 (Test:) 
 
 Go to a webpage with a scrollbar. If it's working; you'll
-see a red bar and a blue bar if you refresh.
+see a red bar, and a blue bar if you refresh.
 
 
 
