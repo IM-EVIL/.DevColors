@@ -35,6 +35,8 @@ see a red bar and a blue bar if you refresh.
 I suggest putting "unpkd_DevColors" in your Opera profile folder.
 Type "about:" into Opera's address bar to find the location.
 
+Don't put "unpkd_DevColors" in the extensions folder or Opera will remove it.
+
 (manifest.json - "match")
 https://developer.chrome.com/docs/extensions/mv3/match_patterns/
 
