@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Opera.DevColors",
+  "version": "0.0.1",
+  "description": "Change your scrollbar color for all https pages.",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://*/*"]
+  }]
+ 
+}

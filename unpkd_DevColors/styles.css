@@ -1,0 +1,15 @@
+
+/* Width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #00cbff;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #e00;
+}
