@@ -18,6 +18,7 @@ An example of how to change the Opera Browser's scrollbar color.
 
 (5): Select the folder "unpkd_DevColors".
  
+(6): Set "Allow access to search page results" to true.
  
  
 (Test:) 
