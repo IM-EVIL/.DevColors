@@ -24,7 +24,7 @@ display these changes, or don't want to display them.
 (Test:) 
 
 Go to a webpage with a scrollbar. If it's working; you'll
-see a red bar and a blue bar if you refresh.
+see a red bar, and a blue bar if you refresh.
 
 
 -  IM-EVIL
